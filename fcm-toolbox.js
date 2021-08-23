@@ -2,19 +2,19 @@
 
 var DEFAULT_APP_SETTINGS = {
   fcm: {
-    apiKey: "AAAAeCtBjGs:APA91bH41k5zn-RZBW-CkM8RS35dWwEmQwjUiVks8StwiU2b_VyocCNK-ZprO7nmczfNAeKepJmXNe9IwSkINTd5oVqj2CciuMnoBSvNKjjXghArWQSNlb-821x0LoVpRnK6uni2-s1b",
+    apiKey: "AAAASwElybY:APA91bFaTT_zKLcLYqB0soW8PJmFFG7x1F3wiR0MGta9lLsU22uAVa0VD_3zzz-OremJKDEWEf52OD554byamcwAmZldgrQKfwAjjbhZz_5DYT-z1gcflUBFSWVQQ9lSE9KwDBNHULvfVKmQwxa7xNwuPHz-VfdTbw",
     ttl: 86400,
     priority: 5
   },
   frd: {
-    databaseUrl: "https://ummenmn-default-rtdb.firebaseio.com"
+    databaseUrl: "https://ummenmn-70ea5-default-rtdb.firebaseio.com"
   },
   fa: {
     active: true,
-    apiKey: "AIzaSyDNcsCyuxw7TBSAzFs-9mPGVSBiKVnORYg",
-    projectId: "ummenmn",
-    appId: "1:516121791595:web:c8f87e197cdd2eaf9af52e",
-    measurementId: "G-Y69BBK59YC"
+    apiKey: "AIzaSyBBd-gJUlg_HFdbWz6l90gJL2tHEm4itqY",
+    projectId: "fir-cloudmessaging-4e2cd",
+    appId: "1:322141800886:web:5cdb37ecedcc8c359d5917",
+    measurementId: "G-W942B55TP2"
   },
   hide: false
 };
