@@ -2,12 +2,12 @@
 
 var DEFAULT_APP_SETTINGS = {
   fcm: {
-    apiKey: "AAAAeCtBjGs:APA91bH41k5zn-RZBW-CkM8RS35dWwEmQwjUiVks8StwiU2b_VyocCNK-ZprO7nmczfNAeKepJmXNe9IwSkINTd5oVqj2CciuMnoBSvNKjjXghArWQSNlb-821x0LoVpRnK6uni2-s1b ",
+    apiKey: "AAAAeCtBjGs:APA91bH41k5zn-RZBW-CkM8RS35dWwEmQwjUiVks8StwiU2b_VyocCNK-ZprO7nmczfNAeKepJmXNe9IwSkINTd5oVqj2CciuMnoBSvNKjjXghArWQSNlb-821x0LoVpRnK6uni2-s1b",
     ttl: 86400,
     priority: 5
   },
   frd: {
-    databaseUrl: "https://ummenmn-default-rtdb.firebaseio.com/"
+    databaseUrl: "https://ummenmn-default-rtdb.firebaseio.com"
   },
   fa: {
     active: true,
