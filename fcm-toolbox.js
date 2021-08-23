@@ -7,7 +7,7 @@ var DEFAULT_APP_SETTINGS = {
     priority: 5
   },
   frd: {
-    databaseUrl: "https://ummenmn-70ea5-default-rtdb.firebaseio.com"
+    databaseUrl: "https://ummenmn-70ea5-default-rtdb.firebaseio.com/"
   },
   fa: {
     active: true,
